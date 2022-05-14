@@ -1,0 +1,43 @@
+body {
+    background: #E5E5E5;
+    font-family: open sans, sans-serif;
+}
+
+.header {
+    border: solid 2px blue;
+    height: 1000px;
+    width: 100%;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+}
+
+.card {
+    border: solid 1px red;
+    width: 355px;
+    height: 470px;
+    /* background: red; */
+}
+
+
+/* @media (min-width: 1400px) {
+    .container {
+        align-content: center;
+    }
+}
+*/
+
+@media (min-width: 768px) {
+    .header {
+        height: 20vh;
+    }
+    .container {
+        flex-wrap: wrap;
+        align-content: center;
+        justify-content: center;
+    }
+}
