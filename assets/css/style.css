@@ -1,0 +1,8 @@
+/* GENERAL */
+
+body {
+    background: var(#F9FBFC);
+    font-family: var(--openSans);
+    height: 100vh;
+    font-size: 16px;
+}
