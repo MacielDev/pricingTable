@@ -1,13 +1,13 @@
-:root {
-    /* font-family */
-    --openSans: 'Open sans';
-    /* colors */
-    --write-principal: #ffffff;
-    --principal-blue: #1D539E;
-    --card-header-yellow: #FFCC29;
-    --black-price-: #1E2338;
-    --grey-month-list: #828799;
-    --green-check: #59CE9F;
-    --grey-divider: #EEEEEE;
-    --grey-background: #F9FBFC;
-}
+          :root {
+             /* font-family */
+             --openSans: 'Open sans';
+             /* colors */
+             --write-principal: #ffffff;
+             --principal-blue: #1D539E;
+             --card-header-yellow: #FFCC29;
+             --black-principal: #1E2338;
+             --grey-list: #828799;
+             --green-check: #59CE9F;
+             --grey-divider: #EEEEEE;
+             --grey-background: #e3e6e7;
+         }
